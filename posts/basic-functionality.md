@@ -29,7 +29,7 @@ These changes are reflected immediately across everyone's discussion views.
 
 ## Saving blocks
 
-Each block can be saved to a user's library. We're still exploring what this means; read more about this in [Considering Searching](/posts/considering-seraching).
+Each block can be saved to a user's library. We're still exploring what this means; read more about this in [Considering Searching](/posts/considering-searching).
 
 # How it's built
 
