@@ -23052,7 +23052,7 @@ function Post(_ref) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 3:
 /*!***************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts%2F%5Bid%5D&absolutePagePath=%2Fhome%2Fcbroms%2FDesktop%2Fpith-blog%2Fpages%2Fposts%2F%5Bid%5D.js&hotRouterUpdates=true ***!
   \***************************************************************************************************************************************************************************/
@@ -23075,5 +23075,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[id].js.map
