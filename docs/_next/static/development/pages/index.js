@@ -23099,7 +23099,7 @@ function Home(_ref) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fcbroms%2FDesktop%2Fpith-blog%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \************************************************************************************************************************************************/
@@ -23122,5 +23122,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
