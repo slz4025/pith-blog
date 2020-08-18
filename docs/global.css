@@ -154,6 +154,10 @@ ul {
     /* font-size: 110%;*/
 }
 
+li {
+    padding: 10px 0;
+}
+
 h1,
 h2,
 h3,
